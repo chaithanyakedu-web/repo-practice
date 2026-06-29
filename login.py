@@ -1,7 +1,7 @@
 
-class login(){
+class user_login(){
 
-        username=""
-        pwd=""
+        username="abc"
+        pwd="wretttgtgtg3wtg"
 
         }
